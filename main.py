@@ -20,8 +20,8 @@ headers_with_auth = {
 
 # 登录参数
 payload = {
-  "phone": "18996929332",
-  "secret": "a53416620"
+  "phone": "account",
+  "secret": "password"
 }
 
 # 登录url
